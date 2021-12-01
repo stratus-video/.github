@@ -4,7 +4,7 @@
 
 - [ ] 3. Verify that unit tests were added to cover new/modified code
 
-- [ ] 4. Review for correctness, security, standards compliance, and style
+- [ ] 4. Review for correctness, security (e.g. OWASP, conformance with AMN security standards, etc.), coding standards compliance, and style
 
 - [ ] 5. Review for proper error handling and an acceptable level of operational logging
 
